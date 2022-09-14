@@ -1,10 +1,17 @@
-# yowl
-
+# YOWL
+#
 # back : 
 # serveur PHP => composer update && composer install
-              => PHP artisan serve
-              
+#             => PHP artisan serve
+#              
 # serveur NODE => npm install && npm run dev
-
+#
 # front :
-# serveur NODE 
+# serveur NODE => npm install && npm run serve
+#
+#
+# ADMIN
+# email => titus44@example.net
+# password => password
+
+
