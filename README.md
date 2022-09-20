@@ -1,6 +1,8 @@
 # YOWL
 
-cd back : 
+# sql file include
+
+# cd back : 
 serveur PHP 
 => composer update && composer install
 => PHP artisan serve
@@ -8,7 +10,7 @@ serveur PHP
 serveur NODE 
 => npm install && npm run dev
 
-cd front :
+# cd front :
 serveur NODE 
 => npm install && npm run serve
 
